@@ -22,10 +22,15 @@ html {
    color: #fff;
    background: red;
    font-weight: 700;
+   font-family: Arial, Helvetica, sans-serif;
    box-shadow: 0 0 10px rgba(0, 0, 0, .5);
    border-bottom-left-radius: 2px;
    border-bottom-right-radius: 2px;
    z-index: 2;
+   a:hover {
+      color: blue;
+   }
+   
 }
 
 
