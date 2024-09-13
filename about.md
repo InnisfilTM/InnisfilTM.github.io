@@ -28,7 +28,7 @@ speaking and leadership skills.</p>
 
 
 <h3>Membership</h3>
-<p>Guests are welcome to attend a few times to see if the club is a good fit. Membership is $100 (pro-rated) every six months plus an inital one time only sign-up fee to register with <a href="http://toastmasters.org" target="_blank">Toastmasters International</a>.</p>
+<p>Guests are welcome to attend a few times to see if the club is a good fit. Membership is $120 (pro-rated) every six months plus an inital one time only sign-up fee to register with <a href="http://toastmasters.org" target="_blank">Toastmasters International</a>.</p>
 
 
 <p>
